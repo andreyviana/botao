@@ -40,3 +40,7 @@ body{
     margin: 20px auto;
     cursor: pointer;
 }
+
+#mostre_mais:hover {
+    background-color: #383f3f;
+    color: white;
